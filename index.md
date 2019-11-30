@@ -25,7 +25,7 @@ page_sections:
   image:
     image: "/uploads/2019/11/30/pngfind.com-star-wars-characters-png-107724-3.png"
     alt_text: Product Shot
-  background_image: ''
+  background_image: "/uploads/2019/11/30/Untitled-2.png"
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
