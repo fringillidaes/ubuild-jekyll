@@ -8,7 +8,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "/docs"
+  - link: "/bbs-doc/index.html"
     link_text: Documentation
   - link: "/SupportServer"
     link_text: Support Server
