@@ -11,9 +11,13 @@ page_sections:
   logo: "/uploads/2019/11/30/logosm.png"
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: "<strong>BB-8</strong> Discord Bot (based on <strong>Red</strong> Discord
+    Bot)"
+  content: BB-8 is a fully modular bot – meaning all features and commands can be
+    enabled/disabled to your liking, making it completely customizable. This is also
+    a <em>self-hosted bot</em> – meaning you will need to host and maintain your own
+    instance. You can turn Red into an admin bot, music bot, trivia bot, new best
+    friend or all of these together!
   cta:
     enabled: true
     url: https://discordapp.com/oauth2/authorize?client_id=540694922307698690&scope=bot&permissions=2146958839
