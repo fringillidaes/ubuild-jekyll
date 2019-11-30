@@ -6,6 +6,8 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
+  - link: "/SupportServer"
+    link_text: Support Server
   - link: "/docs"
     link_text: Documentation
   - link: "/"
