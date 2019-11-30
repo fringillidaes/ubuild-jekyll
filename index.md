@@ -6,12 +6,12 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
-  - link: "/SupportServer"
-    link_text: Support Server
-  - link: "/docs"
-    link_text: Documentation
   - link: "/"
     link_text: Home
+  - link: "/docs"
+    link_text: Documentation
+  - link: "/SupportServer"
+    link_text: Support Server
   logo: "/uploads/2019/11/30/logosm.png"
 - template: hero-banner-w-image
   block: hero-2
