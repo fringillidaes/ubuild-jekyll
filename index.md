@@ -16,8 +16,8 @@ page_sections:
     content manager.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    url: https://discordapp.com/oauth2/authorize?client_id=540694922307698690&scope=bot&permissions=2146958839
+    button_text: Add me to your server!
   image:
     image: "/uploads/2019/11/30/bb8use.PNG"
     alt_text: Product Shot
