@@ -6,6 +6,8 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
+  - link: "/docs"
+    link_text: Documentation
   - link: "/"
     link_text: Home
   logo: "/uploads/2019/11/30/logosm.png"
