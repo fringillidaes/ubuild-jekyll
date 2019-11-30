@@ -23,7 +23,7 @@ page_sections:
     url: https://discordapp.com/oauth2/authorize?client_id=540694922307698690&scope=bot&permissions=2146958839
     button_text: Add me to your server!
   image:
-    image: "/uploads/2019/11/30/pngfind.com-star-wars-characters-png-107724-2.png"
+    image: "/uploads/2019/11/30/pngfind.com-star-wars-characters-png-107724-3.png"
     alt_text: Product Shot
   background_image: ''
 - template: simple-footer
