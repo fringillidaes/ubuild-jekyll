@@ -33,6 +33,17 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: BB8
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: test
+    content: tst
+  col_2:
+    headline: ''
+    content: ''
+  col_3:
+    headline: ''
+    content: ''
 
 ---
 foo bar
