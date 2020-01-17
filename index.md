@@ -32,7 +32,7 @@ page_sections:
   background_image: "/uploads/2019/11/30/Untitled-3-1.png"
 - template: simple-footer
   block: footer-1
-  content: Hello world! ❤︎
+  content: BB8
 
 ---
 foo bar
