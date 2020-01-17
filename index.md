@@ -39,11 +39,11 @@ page_sections:
     headline: test
     content: tst
   col_2:
-    headline: ''
-    content: ''
+    headline: t
+    content: t
   col_3:
-    headline: ''
-    content: ''
+    headline: t
+    content: t
 
 ---
 foo bar
